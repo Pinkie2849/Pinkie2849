@@ -37,12 +37,6 @@
 - **The Digital Academy:** Trainee Data Scientist focused on data sourcing, quality, and visualization using Agile.
 - **Explore.ai Academy:** Practical experience in Machine Learning, model deployment, and analytical programming.
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pinkie2849&show_icons=true&theme=tokyonight" alt="Pinkie2849's Stats" />
-</p>
 
 ### 📫 Connect with Me
 <p align="left">
