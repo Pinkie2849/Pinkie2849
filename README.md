@@ -46,7 +46,7 @@
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/Sibongile-Maluleka](https://www.linkedin.com/in/sibongile-maluleka-255576149/)">
+  <a href="https://www.linkedin.com/in/sibongile-maluleka-255576149/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:Sibongile.maluleka90@gmail.com">
