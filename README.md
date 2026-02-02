@@ -1,4 +1,4 @@
-#<center> Hi, I'm Sibongile Maluleka 👋</center>
+# Hi, I'm Sibongile Maluleka 👋
 ### Data Analyst | Business Intelligence | Generative AI Specialist
 
 <p align="left">
